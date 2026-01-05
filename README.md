@@ -13,7 +13,7 @@ The system retrieves **relevant document chunks** using semantic search and gene
 
 ## 🔗 Project Link
 
-- 🌐 **Live App**: 
+- 🌐 **Live App**: https://ragprojec.streamlit.app/
 
 ---
 
