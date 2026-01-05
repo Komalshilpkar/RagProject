@@ -67,6 +67,3 @@ RagProject/
 👩‍💻 Author
 
 Nandini Shilpkar
-AI / Data Science / Machine Learning
-LinkedIn: 
-GitHub:
