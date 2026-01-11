@@ -17,15 +17,15 @@ The system retrieves **relevant document chunks** using semantic search and gene
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📄 Upload any PDF document
-- 🔍 Semantic search using FAISS vector database
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 💬 Conversational memory (manual, stable)
-- 🧾 Source page tracking for answers
-- 🖥️ Interactive web UI using Streamlit
-- 🔒 Fully local & offline (no OpenAI / paid APIs)
+- Upload any PDF document
+- Semantic search using FAISS vector database
+- Retrieval-Augmented Generation (RAG)
+- Conversational memory (manual, stable)
+- Source page tracking for answers
+- Interactive web UI using Streamlit
+- Fully local & offline (no OpenAI / paid APIs)
 
 ---
 
