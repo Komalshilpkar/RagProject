@@ -1,5 +1,5 @@
 # RagProject
-# 🧠 Advanced RAG PDF Chatbot (Industry-Level)
+# Advanced RAG PDF Chatbot (Industry-Level)
 
 An **end-to-end Retrieval-Augmented Generation (RAG) application** that lets users upload a PDF and ask questions.  
 The system retrieves **relevant document chunks** using semantic search and generates **accurate, grounded answers** using a **local LLM**.
