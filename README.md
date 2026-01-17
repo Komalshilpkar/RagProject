@@ -29,7 +29,7 @@ The system retrieves **relevant document chunks** using semantic search and gene
 
 ---
 
-## 🧠 Architecture Overview
+## Architecture Overview
 
 PDF → Chunking → Embeddings → FAISS Vector DB
 ↓
@@ -45,7 +45,7 @@ Final Answer
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Streamlit – UI
@@ -57,7 +57,7 @@ Final Answer
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 RagProject/
 │── app.py
